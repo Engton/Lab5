@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lsq/oWbLOO26W00Vz2GA9W2spoXWz4xKgL1IGmQF4v7zBGbcCF7mpKm7ljdhk7cUSGqZrNdr+P+NhOT/4tS5uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniil\\source\\repos\\Lab_5_1\\Lab_5_1\\Lab_5_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
